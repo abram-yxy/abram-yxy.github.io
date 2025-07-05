@@ -38,13 +38,14 @@
 <video controls width="300">
   <source src="/test.ogv" type="video/ogg" />
 
-  <source src="/test.mp4" type="video/mp4" />
 
-  Download the
-  <a href="/test.ogv">OGV</a>
-  or
-  <a href="/test.mp4">MP4</a>
-  video.
+
+
+  <p>
+    Your browser doesn't support ogv video. Here is a
+    <a href="/test.ogv">link to the video</a> instead.
+  </p>
+
 </video>
 
 
@@ -62,8 +63,15 @@
 
 <p>
 <a href="#">
-<img src="/test.jpg" width="300" />
+<img src="/test.avif" width="300" />
 </a>
+
+<picture>
+  <source srcset="test.avif" width="300w" type="image/avif" />
+  <source srcset="photo.webp" type="image/webp" />
+  <img src="photo.jpg" alt="photo" />
+</picture>
+
 </p>
 
 <p>
