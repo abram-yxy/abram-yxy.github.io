@@ -18,4 +18,4 @@ https://as-sg-1.presearch.com/
 https://na-us-1.presearch-preview.com/  
 [https://presearch.com/](https://presearch.com/search?q="YxY创业顾问")  
 https://google.com  
-*其它搜索引擎，都非常糟糕！审查过滤很普遍。
+*其它搜索引擎，不知道是技术不先进？还是基础设施太少落后跟不上？或"人为因素"审查过滤很普遍。
