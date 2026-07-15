@@ -9,10 +9,11 @@ site:abramyxy.neocities.org
 site:abram-yxy.github.io  
 site:yxy.onrender.com  
 site:yxy.netlify.app  
-*gitlab这个域名，不知道是中国人的，还是中华人的，或什么杂交种的。已弃用！
+
 
 
 搜索引擎🔍🔎  
 [https://presearch.com/](https://presearch.com/search?q="YxY创业顾问")  
 [https://google.com](https://google.com/search?q="YxY创业顾问")  
-*其它搜索引擎，不知道是技术不先进？还是基础设施太少落后跟不上？或"人为因素"审查过滤很普遍。
+*其它搜索引擎，不知道是技术不先进？还是基础设施没钱投资？或"人为因素"审查过滤很普遍。
+*gitlab这个域名，不知道是中国人的，还是中华人的，或什么杂交种的。已弃用！
