@@ -9,7 +9,7 @@ site:abramyxy.neocities.org
 site:abram-yxy.github.io  
 site:yxy.onrender.com  
 site:yxy.netlify.app  
-*gitlab这个域名，不知道是中国人的，还是中华人的，或什么鬼人的。已弃用！
+*gitlab这个域名，不知道是中国人的，还是中华人的，或什么杂交种的。已弃用！
 
 
 搜索引擎🔍🔎  
