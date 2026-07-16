@@ -16,4 +16,4 @@ site:yxy.netlify.app
 [https://presearch.com/](https://presearch.com/search?q="YxY创业顾问")  
 [https://google.com](https://google.com/search?q="YxY创业顾问")  
 *其它搜索引擎，不知道是技术？没钱投资？或"人为因素"审查过滤很普遍。  
-*gitlab，鬼域，不知道是中国人的？中华人的？还是什么杂交种的。已弃用！
+*gitlab，鬼域，不知道是中国人的？中华人的？还是什么鬼的。已弃用！
